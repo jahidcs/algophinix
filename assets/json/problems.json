@@ -1,0 +1,1209 @@
+[
+  {
+    "id": 1,
+    "code": "ARRAY01",
+    "type": "ARRAY",
+    "title": "Find 2 elements with given sum"
+  },
+  { "id": 2, "code": "ARRAY02", "type": "ARRAY", "title": "Majority Element" },
+  {
+    "id": 3,
+    "code": "ARRAY03",
+    "type": "ARRAY",
+    "title": "Find the number occurring odd number of times"
+  },
+  {
+    "id": 4,
+    "code": "ARRAY04",
+    "type": "ARRAY",
+    "title": "Merge an array of size n into another of size m + n"
+  },
+  { "id": 5, "code": "ARRAY05", "type": "ARRAY", "title": "Rotate an array" },
+  {
+    "id": 6,
+    "code": "ARRAY06",
+    "type": "ARRAY",
+    "title": "Leaders in an array"
+  },
+  {
+    "id": 7,
+    "code": "ARRAY07",
+    "type": "ARRAY",
+    "title": "Majority element in sorted array"
+  },
+  {
+    "id": 8,
+    "code": "ARRAY08",
+    "type": "ARRAY",
+    "title": "Segregate 0s and 1s in an array"
+  },
+  { "id": 9, "code": "ARRAY09", "type": "ARRAY", "title": "Product array" },
+  {
+    "id": 10,
+    "code": "ARRAY10",
+    "type": "ARRAY",
+    "title": "Find 2 repeating elements"
+  },
+  {
+    "id": 11,
+    "code": "ARRAY11",
+    "type": "ARRAY",
+    "title": "Find duplicates in O(n) time and O(1) space"
+  },
+  {
+    "id": 12,
+    "code": "ARRAY12",
+    "type": "ARRAY",
+    "title": "Linked list vs Array"
+  },
+  {
+    "id": 13,
+    "code": "ARRAY13",
+    "type": "ARRAY",
+    "title": "Find the smallest missing number"
+  },
+  {
+    "id": 14,
+    "code": "ARRAY14",
+    "type": "ARRAY",
+    "title": "Find max j-i such that arr[j] > arr[i]"
+  },
+  {
+    "id": 15,
+    "code": "ARRAY15",
+    "type": "ARRAY",
+    "title": "Find subarray with given sum"
+  },
+  {
+    "id": 16,
+    "code": "ARRAY16",
+    "type": "ARRAY",
+    "title": "Find the smallest positive number missing from an unsorted array"
+  },
+  {
+    "id": 17,
+    "code": "ARRAY17",
+    "type": "ARRAY",
+    "title": "Find 2 numbers with odd occurence"
+  },
+  {
+    "id": 18,
+    "code": "ARRAY18",
+    "type": "ARRAY",
+    "title": "Largest subarray with equal number of 0s and 1s"
+  },
+  {
+    "id": 19,
+    "code": "ARRAY19",
+    "type": "ARRAY",
+    "title": "Replace every element with the greatest on right side"
+  },
+  {
+    "id": 20,
+    "code": "ARRAY20",
+    "type": "ARRAY",
+    "title": "Stock buy sell to maximize profit"
+  },
+  {
+    "id": 21,
+    "code": "ARRAY21",
+    "type": "ARRAY",
+    "title": "Find common elements in 3 sorted ARRAY"
+  },
+  {
+    "id": 22,
+    "code": "ARRAY22",
+    "type": "ARRAY",
+    "title": "Nuts and bolts problem"
+  },
+  {
+    "id": 23,
+    "code": "ARRAY23",
+    "type": "ARRAY",
+    "title": "Trapping rain water"
+  },
+  {
+    "id": 24,
+    "code": "ARRAY24",
+    "type": "ARRAY",
+    "title": "Merge 2 sorted ARRAY in O(1) space"
+  },
+
+  {
+    "id": 25,
+    "code": "STR01",
+    "type": "STRING",
+    "title": "Remove duplicates from string"
+  },
+  {
+    "id": 26,
+    "code": "STR02",
+    "type": "STRING",
+    "title": "Remove characters from the first string which are present in the second string"
+  },
+  {
+    "id": 27,
+    "code": "STR03",
+    "type": "STRING",
+    "title": "Check if STRING are rotations of each other"
+  },
+  {
+    "id": 28,
+    "code": "STR04",
+    "type": "STRING",
+    "title": "Print all permutations of a given string"
+  },
+  {
+    "id": 29,
+    "code": "STR05",
+    "type": "STRING",
+    "title": "Reverse words in a given string"
+  },
+  {
+    "id": 30,
+    "code": "STR06",
+    "type": "STRING",
+    "title": "Find the smallest window in a string containing all the characters of the second string"
+  },
+  {
+    "id": 31,
+    "code": "STR07",
+    "type": "STRING",
+    "title": "Check whether two STRING are anagrams of each other"
+  },
+  {
+    "id": 32,
+    "code": "STR08",
+    "type": "STRING",
+    "title": "Write your own atoi()"
+  },
+  {
+    "id": 33,
+    "code": "STR09",
+    "type": "STRING",
+    "title": "Rearrange a string so that similar characters become d distance away"
+  },
+  {
+    "id": 34,
+    "code": "STR10",
+    "type": "STRING",
+    "title": "Longest Common Subsequence"
+  },
+  {
+    "id": 35,
+    "code": "STR11",
+    "type": "STRING",
+    "title": "Find excel column name from a given column number"
+  },
+
+  {
+    "id": 36,
+    "code": "LL01",
+    "type": "Linked List",
+    "title": "Get Nth node in a linked list"
+  },
+  {
+    "id": 37,
+    "code": "LL02",
+    "type": "Linked List",
+    "title": "Delete a node given a pointer to it"
+  },
+  { "id": 38, "code": "LL03", "type": "Linked List", "title": "Print middle" },
+  {
+    "id": 39,
+    "code": "LL04",
+    "type": "Linked List",
+    "title": "Find Nth node from the end"
+  },
+  {
+    "id": 40,
+    "code": "LL05",
+    "type": "Linked List",
+    "title": "Delete linked list"
+  },
+  {
+    "id": 41,
+    "code": "LL06",
+    "type": "Linked List",
+    "title": "Reverse linked list"
+  },
+  {
+    "id": 42,
+    "code": "LL07",
+    "type": "Linked List",
+    "title": "Detect loop in a linked list"
+  },
+  {
+    "id": 43,
+    "code": "LL08",
+    "type": "Linked List",
+    "title": "Check if a singly linked list is a palindrome"
+  },
+  {
+    "id": 44,
+    "code": "LL09",
+    "type": "Linked List",
+    "title": "Clone a linked list with next and random pointer"
+  },
+  {
+    "id": 45,
+    "code": "LL10",
+    "type": "Linked List",
+    "title": "Memory efficient doubly linked list"
+  },
+  {
+    "id": 46,
+    "code": "LL11",
+    "type": "Linked List",
+    "title": "Insert in sorted linked list"
+  },
+  {
+    "id": 47,
+    "code": "LL12",
+    "type": "Linked List",
+    "title": "Get intersection point of 2 linked lists"
+  },
+  {
+    "id": 48,
+    "code": "LL13",
+    "type": "Linked List",
+    "title": "Print reverse of a linked list"
+  },
+  {
+    "id": 49,
+    "code": "LL14",
+    "type": "Linked List",
+    "title": "Remove duplicates from sorted linked list"
+  },
+  {
+    "id": 50,
+    "code": "LL15",
+    "type": "Linked List",
+    "title": "Remove duplicates from unsorted linked list"
+  },
+  {
+    "id": 51,
+    "code": "LL16",
+    "type": "Linked List",
+    "title": "Reverse doubly linked list"
+  },
+  {
+    "id": 52,
+    "code": "LL17",
+    "type": "Linked List",
+    "title": "Merge 2 sorted linked lists"
+  },
+  {
+    "id": 53,
+    "code": "LL18",
+    "type": "Linked List",
+    "title": "Merge sort for linked lists"
+  },
+  {
+    "id": 54,
+    "code": "LL19",
+    "type": "Linked List",
+    "title": "Reverse a linked list in groups of given size"
+  },
+  {
+    "id": 55,
+    "code": "LL20",
+    "type": "Linked List",
+    "title": "Linked list vs Array"
+  },
+  {
+    "id": 56,
+    "code": "LL21",
+    "type": "Linked List",
+    "title": "Sorted insert for circular linked list"
+  },
+  {
+    "id": 57,
+    "code": "LL22",
+    "type": "Linked List",
+    "title": "Detect and remove loop in a linked list"
+  },
+  {
+    "id": 58,
+    "code": "LL23",
+    "type": "Linked List",
+    "title": "XOR linked list"
+  },
+  {
+    "id": 59,
+    "code": "LL24",
+    "type": "Linked List",
+    "title": "Add 2 numbers represented by linked lists"
+  },
+  {
+    "id": 60,
+    "code": "LL25",
+    "type": "Linked List",
+    "title": "Write C functions that modify head pointer of linked list"
+  },
+  {
+    "id": 61,
+    "code": "LL26",
+    "type": "Linked List",
+    "title": "Sorted linked list to balanced BST"
+  },
+  {
+    "id": 62,
+    "code": "LL27",
+    "type": "Linked List",
+    "title": "Sorted DLL to BST"
+  },
+  {
+    "id": 63,
+    "code": "LL28",
+    "type": "Linked List",
+    "title": "XOR linked list | Set 2"
+  },
+  {
+    "id": 64,
+    "code": "LL29",
+    "type": "Linked List",
+    "title": "Flatten a linked list"
+  },
+  {
+    "id": 65,
+    "code": "LL30",
+    "type": "Linked List",
+    "title": "Add 2 numbers represented by linked lists | Set 2"
+  },
+  {
+    "id": 66,
+    "code": "LL31",
+    "type": "Linked List",
+    "title": "Flatten a multilevel linked list"
+  },
+  {
+    "id": 67,
+    "code": "LL32",
+    "type": "Linked List",
+    "title": "Clone a linked list with next and random pointer | Set 2"
+  },
+
+  {
+    "id": 68,
+    "code": "MAT01",
+    "type": "Matrix",
+    "title": "Maximum size square submatrix with all 1s"
+  },
+  {
+    "id": 69,
+    "code": "MAT02",
+    "type": "Matrix",
+    "title": "Turn an image by 90 degree"
+  },
+  {
+    "id": 70,
+    "code": "MAT03",
+    "type": "Matrix",
+    "title": "Search in a row wise and column wise sorted matrix"
+  },
+  {
+    "id": 71,
+    "code": "MAT04",
+    "type": "Matrix",
+    "title": "Print a given matrix in spiral form"
+  },
+  {
+    "id": 72,
+    "code": "MAT05",
+    "type": "Matrix",
+    "title": "A boolean matrix question"
+  },
+  { "id": 73, "code": "MAT06", "type": "Matrix", "title": "Min cost path" },
+  {
+    "id": 74,
+    "code": "MAT07",
+    "type": "Matrix",
+    "title": "Find the row with maximum number of 1s"
+  },
+  {
+    "id": 75,
+    "code": "MAT08",
+    "type": "Matrix",
+    "title": "Find the number of islands"
+  },
+  {
+    "id": 76,
+    "code": "MAT09",
+    "type": "Matrix",
+    "title": "Maximum sum rectangle in a 2D matrix"
+  },
+  {
+    "id": 77,
+    "code": "MAT10",
+    "type": "Matrix",
+    "title": "Rotate matrix clockwise"
+  },
+  { "id": 78, "code": "MAT11", "type": "Matrix", "title": "Dungeon game" },
+  {
+    "id": 79,
+    "code": "MAT12",
+    "type": "Matrix",
+    "title": "Given a boolean matrix. Find k such that all elements in the kth row are 0 and the kth column are 1"
+  },
+  {
+    "id": 80,
+    "code": "MAT13",
+    "type": "Matrix",
+    "title": "Maximum size rectangle binary submatrix with all 1s"
+  },
+
+  {
+    "id": 81,
+    "code": "HASH01",
+    "type": "Hashing",
+    "title": "Check for pair in array with sum as x"
+  },
+  {
+    "id": 82,
+    "code": "HASH02",
+    "type": "Hashing",
+    "title": "Vertical sum in binary tree"
+  },
+  {
+    "id": 83,
+    "code": "HASH03",
+    "type": "Hashing",
+    "title": "Largest subarray with equal number of 0s and 1s"
+  },
+  {
+    "id": 84,
+    "code": "HASH04",
+    "type": "Hashing",
+    "title": "Find if there is a subarray with 0 sum"
+  },
+  {
+    "id": 85,
+    "code": "HASH05",
+    "type": "Hashing",
+    "title": "Print binary tree in vertical order"
+  },
+  {
+    "id": 86,
+    "code": "HASH06",
+    "type": "Hashing",
+    "title": "BST vs Hash table"
+  },
+  {
+    "id": 87,
+    "code": "HASH07",
+    "type": "Hashing",
+    "title": "Special data structure"
+  },
+  {
+    "id": 88,
+    "code": "HASH08",
+    "type": "Hashing",
+    "title": "Find itinerary from a given list of tickets"
+  },
+  {
+    "id": 89,
+    "code": "HASH09",
+    "type": "Hashing",
+    "title": "Largest subarray with 0 sum"
+  },
+
+  {
+    "id": 90,
+    "code": "STACK01",
+    "type": "Stack",
+    "title": "Implement queue using stack"
+  },
+  {
+    "id": 91,
+    "code": "STACK02",
+    "type": "Stack",
+    "title": "Check for balanced parentheses in an expression"
+  },
+  {
+    "id": 92,
+    "code": "STACK03",
+    "type": "Stack",
+    "title": "Reverse a string using recursion"
+  },
+  {
+    "id": 93,
+    "code": "STACK04",
+    "type": "Stack",
+    "title": "Design and implement special stack"
+  },
+  {
+    "id": 94,
+    "code": "STACK05",
+    "type": "Stack",
+    "title": "Implement stack using queues"
+  },
+  {
+    "id": 95,
+    "code": "STACK06",
+    "type": "Stack",
+    "title": "Expression evaluation"
+  },
+  { "id": 96, "code": "STACK07", "type": "Stack", "title": "Iterative DFS" },
+
+  {
+    "id": 97,
+    "code": "QUEUE01",
+    "type": "Queue",
+    "title": "Level order traversal"
+  },
+  {
+    "id": 98,
+    "code": "QUEUE02",
+    "type": "Queue",
+    "title": "Spiral level order traversal"
+  },
+  {
+    "id": 99,
+    "code": "QUEUE03",
+    "type": "Queue",
+    "title": "Implement queue using stacks"
+  },
+  {
+    "id": 100,
+    "code": "QUEUE04",
+    "type": "Queue",
+    "title": "Applications of queue"
+  },
+  { "id": 101, "code": "QUEUE05", "type": "Queue", "title": "BFS" },
+  { "id": 102, "code": "QUEUE06", "type": "Queue", "title": "LRU Cache" },
+  {
+    "id": 103,
+    "code": "QUEUE07",
+    "type": "Queue",
+    "title": "Implement stack using queues"
+  },
+  {
+    "id": 104,
+    "code": "QUEUE08",
+    "type": "Queue",
+    "title": "First circular tour that visits all petrol pumps"
+  },
+  {
+    "id": 105,
+    "code": "QUEUE09",
+    "type": "Queue",
+    "title": "Iterative height of binary tree"
+  },
+  {
+    "id": 106,
+    "code": "TREE01",
+    "type": "Trees",
+    "title": "Recursive Tree Traversals"
+  },
+  {
+    "id": 107,
+    "code": "TREE02",
+    "type": "Trees",
+    "title": "Calculate size of tree"
+  },
+  {
+    "id": 108,
+    "code": "TREE03",
+    "type": "Trees",
+    "title": "Check if two trees are identical"
+  },
+  { "id": 109, "code": "TREE04", "type": "Trees", "title": "Height of tree" },
+  { "id": 110, "code": "TREE05", "type": "Trees", "title": "Delete a tree" },
+  {
+    "id": 111,
+    "code": "TREE06",
+    "type": "Trees",
+    "title": "Convert a binary tree to its mirror tree"
+  },
+  {
+    "id": 112,
+    "code": "TREE07",
+    "type": "Trees",
+    "title": "Given two traversal sequences, construct the binary tree"
+  },
+  {
+    "id": 113,
+    "code": "TREE08",
+    "type": "Trees",
+    "title": "Print all root to leaf paths in a binary tree"
+  },
+  {
+    "id": 114,
+    "code": "TREE09",
+    "type": "Trees",
+    "title": "Lowest common ancestor in BST"
+  },
+  {
+    "id": 115,
+    "code": "TREE10",
+    "type": "Trees",
+    "title": "Level order traversal"
+  },
+  { "id": 116, "code": "TREE11", "type": "Trees", "title": "Count leaf nodes" },
+  {
+    "id": 117,
+    "code": "TREE12",
+    "type": "Trees",
+    "title": "Spiral level order traversal"
+  },
+  { "id": 118, "code": "TREE13", "type": "Trees", "title": "Diameter of tree" },
+  {
+    "id": 119,
+    "code": "TREE14",
+    "type": "Trees",
+    "title": "Inorder traversal without recursion"
+  },
+  {
+    "id": 120,
+    "code": "TREE15",
+    "type": "Trees",
+    "title": "Root to leaf path sum equal to given number"
+  },
+  {
+    "id": 121,
+    "code": "TREE16",
+    "type": "Trees",
+    "title": "Construct tree from inorder and preorder traversal"
+  },
+  {
+    "id": 122,
+    "code": "TREE17",
+    "type": "Trees",
+    "title": "Print nodes at k distance from root"
+  },
+  {
+    "id": 123,
+    "code": "TREE18",
+    "type": "Trees",
+    "title": "Applications of tree"
+  },
+  {
+    "id": 124,
+    "code": "TREE19",
+    "type": "Trees",
+    "title": "Check if a binary tree is a subtree of another binary tree"
+  },
+  {
+    "id": 125,
+    "code": "TREE20",
+    "type": "Trees",
+    "title": "Find inorder successor for all nodes"
+  },
+  {
+    "id": 126,
+    "code": "TREE21",
+    "type": "Trees",
+    "title": "Vertical sum in a given binary tree"
+  },
+  {
+    "id": 127,
+    "code": "TREE22",
+    "type": "Trees",
+    "title": "Maximum sum root to leaf path"
+  },
+  {
+    "id": 128,
+    "code": "TREE23",
+    "type": "Trees",
+    "title": "Check if a binary tree is complete or not"
+  },
+  {
+    "id": 129,
+    "code": "TREE24",
+    "type": "Trees",
+    "title": "Iterative preorder traversal"
+  },
+  {
+    "id": 130,
+    "code": "TREE25",
+    "type": "Trees",
+    "title": "Iterative postorder traversal"
+  },
+  {
+    "id": 131,
+    "code": "TREE26",
+    "type": "Trees",
+    "title": "Reverse level order traversal"
+  },
+  {
+    "id": 132,
+    "code": "TREE27",
+    "type": "Trees",
+    "title": "Binary tree to doubly linked list OR Binary tree to double linked list"
+  },
+  {
+    "id": 133,
+    "code": "TREE28",
+    "type": "Trees",
+    "title": "Find height of tree iteratively"
+  },
+  {
+    "id": 134,
+    "code": "TREE29",
+    "type": "Trees",
+    "title": "Left view of binary tree"
+  },
+  {
+    "id": 135,
+    "code": "TREE30",
+    "type": "Trees",
+    "title": "Lowest common ancestor binary tree"
+  },
+  {
+    "id": 136,
+    "code": "TREE31",
+    "type": "Trees",
+    "title": "Print all nodes at k distance from given node"
+  },
+  {
+    "id": 137,
+    "code": "TREE32",
+    "type": "Trees",
+    "title": "Right view of binary tree"
+  },
+  {
+    "id": 138,
+    "code": "TREE33",
+    "type": "Trees",
+    "title": "Check if binary tree is subtree of another binary tree"
+  },
+  {
+    "id": 139,
+    "code": "TREE34",
+    "type": "Trees",
+    "title": "Print nodes between two given levels"
+  },
+  {
+    "id": 140,
+    "code": "TREE35",
+    "type": "Trees",
+    "title": "Serialize and deserialize a binary tree"
+  },
+  {
+    "id": 141,
+    "code": "TREE36",
+    "type": "Trees",
+    "title": "Serialize and deserialize an N-ary tree"
+  },
+  { "id": 142, "code": "TREE37", "type": "Trees", "title": "Expression tree" },
+  {
+    "id": 143,
+    "code": "TREE38",
+    "type": "Trees",
+    "title": "Check if binary tree is symmetric"
+  },
+  {
+    "id": 144,
+    "code": "TREE39",
+    "type": "Trees",
+    "title": "Mirror of N-ary tree"
+  },
+  {
+    "id": 145,
+    "code": "TREE40",
+    "type": "Trees",
+    "title": "Find node with min value in BST"
+  },
+  {
+    "id": 146,
+    "code": "TREE41",
+    "type": "Trees",
+    "title": "Check if a binary tree is BST"
+  },
+  {
+    "id": 147,
+    "code": "TREE42",
+    "type": "Trees",
+    "title": "Find kth smallest element in BST"
+  },
+  {
+    "id": 148,
+    "code": "TREE43",
+    "type": "Trees",
+    "title": "Sorted linked list to balanced BST"
+  },
+  {
+    "id": 149,
+    "code": "TREE44",
+    "type": "Trees",
+    "title": "Kth largest element in BST"
+  },
+  {
+    "id": 150,
+    "code": "TREE45",
+    "type": "Trees",
+    "title": "Advantages of BST over hash table"
+  },
+  {
+    "id": 151,
+    "code": "TREE46",
+    "type": "Trees",
+    "title": "Kth smallest element in BST using O(1) space"
+  },
+
+  { "id": 152, "code": "BST01", "type": "BST", "title": "Find min element" },
+  {
+    "id": 153,
+    "code": "BST02",
+    "type": "BST",
+    "title": "Check if binary tree is BST"
+  },
+  { "id": 154, "code": "BST03", "type": "BST", "title": "Inorder successor" },
+  {
+    "id": 155,
+    "code": "BST04",
+    "type": "BST",
+    "title": "kth smallest element using order statistics"
+  },
+  {
+    "id": 156,
+    "code": "BST05",
+    "type": "BST",
+    "title": "Sorted linked list to balanced BST"
+  },
+  {
+    "id": 157,
+    "code": "BST06",
+    "type": "BST",
+    "title": "Construct BST from given preorder traversal"
+  },
+  {
+    "id": 158,
+    "code": "BST07",
+    "type": "BST",
+    "title": "Construct BST from given preorder traversal | Set 2"
+  },
+
+  {
+    "id": 159,
+    "code": "HEAP01",
+    "type": "HEAP",
+    "title": "k largest elements in an array"
+  },
+  {
+    "id": 160,
+    "code": "HEAP02",
+    "type": "HEAP",
+    "title": "Applications of heap"
+  },
+  { "id": 161, "code": "HEAP03", "type": "HEAP", "title": "Build heap" },
+  {
+    "id": 162,
+    "code": "HEAP04",
+    "type": "HEAP",
+    "title": "Median in a stream of integers"
+  },
+  {
+    "id": 163,
+    "code": "HEAP05",
+    "type": "HEAP",
+    "title": "Sort a k sorted array"
+  },
+  {
+    "id": 164,
+    "code": "HEAP06",
+    "type": "HEAP",
+    "title": "Sort numbers stored on different machines"
+  },
+  {
+    "id": 165,
+    "code": "HEAP07",
+    "type": "HEAP",
+    "title": "Merge k sorted ARRAY"
+  },
+  {
+    "id": 166,
+    "code": "HEAP08",
+    "type": "HEAP",
+    "title": "Print all elements in sorted order from row and column wise sorted matrix"
+  },
+  {
+    "id": 167,
+    "code": "HEAP09",
+    "type": "HEAP",
+    "title": "kth smallest element in unsorted array"
+  },
+  {
+    "id": 168,
+    "code": "HEAP10",
+    "type": "HEAP",
+    "title": "kth largest element in stream"
+  },
+  {
+    "id": 169,
+    "code": "HEAP11",
+    "type": "HEAP",
+    "title": "Why prefer heap over BST for priority queue"
+  },
+
+  {
+    "id": 170,
+    "code": "DP01",
+    "type": "DYNAMIC PROGRAMMING",
+    "title": "Maximum sum subarray"
+  },
+  {
+    "id": 171,
+    "code": "DP02",
+    "type": "DYNAMIC PROGRAMMING",
+    "title": "Maximum size square sub-matrix with all 1s"
+  },
+  {
+    "id": 172,
+    "code": "DP03",
+    "type": "DYNAMIC PROGRAMMING",
+    "title": "Fibonacci numbers"
+  },
+  { "id": 173, "code": "DP04", "type": "DYNAMIC PROGRAMMING", "title": "LIS" },
+  { "id": 174, "code": "DP05", "type": "DYNAMIC PROGRAMMING", "title": "LCS" },
+  {
+    "id": 175,
+    "code": "DP06",
+    "type": "DYNAMIC PROGRAMMING",
+    "title": "Edit distance"
+  },
+  {
+    "id": 176,
+    "code": "DP07",
+    "type": "DYNAMIC PROGRAMMING",
+    "title": "Minimum cost path"
+  },
+  {
+    "id": 177,
+    "code": "DP08",
+    "type": "DYNAMIC PROGRAMMING",
+    "title": "Minimum number of jumps to reach end"
+  },
+  {
+    "id": 178,
+    "code": "DP09",
+    "type": "DYNAMIC PROGRAMMING",
+    "title": "Coin change problem"
+  },
+  {
+    "id": 179,
+    "code": "DP10",
+    "type": "DYNAMIC PROGRAMMING",
+    "title": "0-1 Knapsack"
+  },
+  {
+    "id": 180,
+    "code": "DP11",
+    "type": "DYNAMIC PROGRAMMING",
+    "title": "Longest palindromic subsequence"
+  },
+  {
+    "id": 181,
+    "code": "DP12",
+    "type": "DYNAMIC PROGRAMMING",
+    "title": "Maximum sum increasing subsequence"
+  },
+  {
+    "id": 182,
+    "code": "DP13",
+    "type": "DYNAMIC PROGRAMMING",
+    "title": "Floyd warshall algorithm"
+  },
+  {
+    "id": 183,
+    "code": "DP14",
+    "type": "DYNAMIC PROGRAMMING",
+    "title": "Partition problem"
+  },
+  {
+    "id": 184,
+    "code": "DP15",
+    "type": "DYNAMIC PROGRAMMING",
+    "title": "Maximum length chain of pairs"
+  },
+  {
+    "id": 185,
+    "code": "DP16",
+    "type": "DYNAMIC PROGRAMMING",
+    "title": "Variations of LIS"
+  },
+  {
+    "id": 186,
+    "code": "DP17",
+    "type": "DYNAMIC PROGRAMMING",
+    "title": "Bellman-Ford algorithm"
+  },
+  {
+    "id": 187,
+    "code": "DP18",
+    "type": "DYNAMIC PROGRAMMING",
+    "title": "Subset sum problem"
+  },
+  {
+    "id": 188,
+    "code": "DP19",
+    "type": "DYNAMIC PROGRAMMING",
+    "title": "Maximum sum rectangle in a 2-D matrix"
+  },
+  {
+    "id": 189,
+    "code": "DP20",
+    "type": "DYNAMIC PROGRAMMING",
+    "title": "Minimum insertions to form a palindrome"
+  },
+  {
+    "id": 190,
+    "code": "DP21",
+    "type": "DYNAMIC PROGRAMMING",
+    "title": "Find if a string is interleaving of 2 other STRING"
+  },
+  {
+    "id": 191,
+    "code": "DP22",
+    "type": "DYNAMIC PROGRAMMING",
+    "title": "Count possible decodings of a given digit sequence"
+  },
+  {
+    "id": 192,
+    "code": "DP23",
+    "type": "DYNAMIC PROGRAMMING",
+    "title": "Count possible ways to construct buildings"
+  },
+  {
+    "id": 193,
+    "code": "DP24",
+    "type": "DYNAMIC PROGRAMMING",
+    "title": "Find minimum number of coins that make a given value"
+  },
+  {
+    "id": 194,
+    "code": "DP25",
+    "type": "DYNAMIC PROGRAMMING",
+    "title": "Minimum number of initial points to reach destination"
+  },
+
+  {
+    "id": 195,
+    "code": "GRAPH01",
+    "type": "GRAPH",
+    "title": "Applications of MST"
+  },
+  {
+    "id": 196,
+    "code": "GRAPH02",
+    "type": "GRAPH",
+    "title": "Applications of DFS"
+  },
+  { "id": 197, "code": "GRAPH03", "type": "GRAPH", "title": "DFS" },
+  { "id": 198, "code": "GRAPH04", "type": "GRAPH", "title": "BFS" },
+  {
+    "id": 199,
+    "code": "GRAPH05",
+    "type": "GRAPH",
+    "title": "Detect cycle in a directed graph"
+  },
+  {
+    "id": 200,
+    "code": "GRAPH06",
+    "type": "GRAPH",
+    "title": "Find if there is a path b/w two vertices in a directed graph"
+  },
+  {
+    "id": 201,
+    "code": "GRAPH07",
+    "type": "GRAPH",
+    "title": "Floyd Warshall Algorithm"
+  },
+  {
+    "id": 202,
+    "code": "GRAPH08",
+    "type": "GRAPH",
+    "title": "Find the number of islands"
+  },
+  {
+    "id": 203,
+    "code": "GRAPH09",
+    "type": "GRAPH",
+    "title": "Detect cycle in undirected graph"
+  },
+  {
+    "id": 204,
+    "code": "GRAPH10",
+    "type": "GRAPH",
+    "title": "Kruskal's Algorithm"
+  },
+  {
+    "id": 205,
+    "code": "GRAPH11",
+    "type": "GRAPH",
+    "title": "Graph and its representations"
+  },
+  {
+    "id": 206,
+    "code": "GRAPH12",
+    "type": "GRAPH",
+    "title": "Prim's algorithm"
+  },
+  {
+    "id": 207,
+    "code": "GRAPH13",
+    "type": "GRAPH",
+    "title": "Prim's algorithm 2"
+  },
+  {
+    "id": 208,
+    "code": "GRAPH14",
+    "type": "GRAPH",
+    "title": "Dijkstra's algorithm"
+  },
+  {
+    "id": 209,
+    "code": "GRAPH15",
+    "type": "GRAPH",
+    "title": "Dijkstra's algorithm 2"
+  },
+  {
+    "id": 210,
+    "code": "GRAPH16",
+    "type": "GRAPH",
+    "title": "Bellman-Ford Algorithm"
+  },
+  {
+    "id": 211,
+    "code": "GRAPH17",
+    "type": "GRAPH",
+    "title": "Transitive closure of a graph"
+  },
+  {
+    "id": 212,
+    "code": "GRAPH18",
+    "type": "GRAPH",
+    "title": "Topological sorting"
+  },
+  {
+    "id": 213,
+    "code": "GRAPH19",
+    "type": "GRAPH",
+    "title": "Shortest path in directed acyclic graph"
+  },
+  {
+    "id": 214,
+    "code": "GRAPH20",
+    "type": "GRAPH",
+    "title": "Strongly connected components"
+  },
+  {
+    "id": 215,
+    "code": "GRAPH21",
+    "type": "GRAPH",
+    "title": "Connectivity in directed graph"
+  },
+  {
+    "id": 216,
+    "code": "GRAPH22",
+    "type": "GRAPH",
+    "title": "Detect cycle in an undirected graph 2"
+  },
+  {
+    "id": 217,
+    "code": "GRAPH23",
+    "type": "GRAPH",
+    "title": "Applications of BFS"
+  }
+]
