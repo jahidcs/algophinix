@@ -1,5 +1,5 @@
 // Fetch JSON and render categories
-fetch("/assets/json/problems.json")
+fetch("assets/json/problems.json")
   .then((response) => response.json())
   .then((data) => {
     const contentContainer = document.querySelector(".content-container");
