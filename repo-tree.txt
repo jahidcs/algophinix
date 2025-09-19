@@ -1,0 +1,54 @@
+Algophinix/
+│── README.md                   # Project overview & roadmap
+│── roadmap.md                  # Your DSA roadmap in phases
+│── .gitignore                  # Ignore pycache, logs, etc.
+│
+├── notes/                      # Theory, explanations, cheatsheets
+│   ├── arrays.md
+│   ├── strings.md
+│   ├── linked_lists.md
+│   ├── trees.md
+│   ├── graphs.md
+│   └── dynamic_programming.md
+│
+├── problems/                   # Phase-wise problems
+│   ├── phase_1_foundations/
+│   │   ├── problem_name_1/
+│   │   │   ├── solution.py
+│   │   │   ├── problem.md          # Problem statement & approach
+│   │   │   └── tests.txt           # Sample test cases
+│   │   └── problem_name_2/
+│   ├── phase_2_arrays_strings/
+│   │   └── ...
+│   ├── phase_3_linkedlists_stacks_queues/
+│   │   └── ...
+│   ├── phase_4_trees/
+│   │   └── ...
+│   ├── phase_5_advanced_ds/
+│   │   └── ...
+│   ├── phase_6_graphs/
+│   │   └── ...
+│   ├── phase_7_dynamic_programming/
+│   │   └── ...
+│   └── phase_8_system_level/
+│       └── ...
+│
+├── implementations/           # Custom DS / utility implementations
+│   ├── python/                # Python implementations
+│   │   ├── linked_list.py
+│   │   ├── stack.py
+│   │   ├── queue.py
+│   │   ├── heap.py
+│   │   └── trie.py
+│   └── cpp/                   # Placeholder for later C++ implementations
+│       └── README.md          # Guidelines for future C++/Go implementations
+│
+├── content/                   # Blog-style explanations / tutorials
+│   ├── why_dsa_matters.md
+│   ├── time_complexity_explained.md
+│   └── ...
+│
+└── journal/                   # Daily / weekly learning logs
+    ├── 2025-09-20.md
+    ├── 2025-09-27.md
+    └── ...
